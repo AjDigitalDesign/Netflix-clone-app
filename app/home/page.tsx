@@ -4,8 +4,7 @@ import Navbar from "../Components/Navbar/Navbar";
 function HomePage() {
   return (
     <div>
-      <Navbar />
-      <h1>Hello Authenticated User</h1>
+      <h1>Hello from home</h1>
     </div>
   );
 }
